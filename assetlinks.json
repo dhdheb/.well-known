@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.yemi",
+      "sha256_cert_fingerprints": [
+        "05:CF:79:91:ED:4D:F5:C8:B8:CD:D2:FC:99:65:5C:B4:A7:DF:A8:3D:6D:47:F4:9A:EA:38:CF:FF:DA:65:ED:00"
+      ]
+    }
+  }
+]
